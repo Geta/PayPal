@@ -2,12 +2,13 @@ PayPal payment provider for EPiServer Commerce
 =============
 
 
-## What is Geta.EPi.Commerce.Payments.PayPal?
-
+## Description
 Geta.EPi.Commerce.Payments.PayPal is based on Episerver's own payment provider for PayPal which is downloadable for older versions of Episerver Commerce. This implementation is upgraded to 11.2.2. 
 
-It consits of:
+## Features
+* Perform payments through paypal
 
+## Content
 * Geta.Commerce.Payments.PayPal
 * Geta.Commerce.Payments.PayPal.Manager
 * Geta.PayPal
@@ -55,3 +56,6 @@ Login into Commerce Manager and open **Administration -> Order System -> Payment
 **Note: If the parameters tab is empty, make sure you have installed the commerce manager nuget**
 
 In **Markets** tab select market for which this payment will be available.
+
+## Package Maintainer
+https://github.com/patkleef
