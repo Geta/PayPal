@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geta.Commerce.Payments.PayPal.Manager", "Geta.Commerce.Payments.PayPal.Manager\Geta.Commerce.Payments.PayPal.Manager.csproj", "{C0A5B0A6-F8EE-4C99-9F73-1FCE6E201DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geta.PayPal", "Geta.PayPal\Geta.PayPal.csproj", "{CCC922E5-374B-4831-B530-8D30B87D9338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geta.Commerce.Payments.PayPal", "Geta.Commerce.Payments.PayPal\Geta.Commerce.Payments.PayPal.csproj", "{482C99D8-FF09-4870-A234-1D046A2C4718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CA|Any CPU = CA|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A5B0A6-F8EE-4C99-9F73-1FCE6E201DBA}.CA|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A5B0A6-F8EE-4C99-9F73-1FCE6E201DBA}.CA|Any CPU.Build.0 = Release|Any CPU
+		{C0A5B0A6-F8EE-4C99-9F73-1FCE6E201DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A5B0A6-F8EE-4C99-9F73-1FCE6E201DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A5B0A6-F8EE-4C99-9F73-1FCE6E201DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A5B0A6-F8EE-4C99-9F73-1FCE6E201DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC922E5-374B-4831-B530-8D30B87D9338}.CA|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC922E5-374B-4831-B530-8D30B87D9338}.CA|Any CPU.Build.0 = Release|Any CPU
+		{CCC922E5-374B-4831-B530-8D30B87D9338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC922E5-374B-4831-B530-8D30B87D9338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC922E5-374B-4831-B530-8D30B87D9338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC922E5-374B-4831-B530-8D30B87D9338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482C99D8-FF09-4870-A234-1D046A2C4718}.CA|Any CPU.ActiveCfg = Release|Any CPU
+		{482C99D8-FF09-4870-A234-1D046A2C4718}.CA|Any CPU.Build.0 = Release|Any CPU
+		{482C99D8-FF09-4870-A234-1D046A2C4718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482C99D8-FF09-4870-A234-1D046A2C4718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482C99D8-FF09-4870-A234-1D046A2C4718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482C99D8-FF09-4870-A234-1D046A2C4718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
