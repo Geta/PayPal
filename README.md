@@ -3,7 +3,7 @@ PayPal payment provider for EPiServer Commerce
 
 
 ## Description
-Geta.EPi.Commerce.Payments.PayPal is based on Episerver's own payment provider for PayPal which is downloadable for older versions of Episerver Commerce. This implementation is upgraded to 11.2.2. 
+Geta.EPi.Commerce.Payments.PayPal is based on Episerver's own payment provider for PayPal which is downloadable for older versions of Episerver Commerce.  
 
 ## Features
 * Perform payments through paypal
@@ -59,3 +59,7 @@ In **Markets** tab select market for which this payment will be available.
 
 ## Package Maintainer
 https://github.com/patkleef
+
+## Changelog
+[Changelog](changelog.md)
+
