@@ -61,5 +61,5 @@ In **Markets** tab select market for which this payment will be available.
 https://github.com/patkleef
 
 ## Changelog
-[Changelog](changelog.md)
+[Changelog](CHANGELOG.md)
 
