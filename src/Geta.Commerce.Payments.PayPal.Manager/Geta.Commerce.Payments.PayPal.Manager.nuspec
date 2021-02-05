@@ -12,5 +12,6 @@
     <description>Commerce manager integration for PayPal</description>
     <copyright>Copyright 2018 Geta</copyright>
     <tags>EPiServer Commerce 12</tags>
+    <repository type="git" url="URL" branch="BRANCH_NAME" commit="COMMIT" />
   </metadata>
 </package>
