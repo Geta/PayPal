@@ -1,7 +1,7 @@
 PayPal payment provider for EPiServer Commerce
 
 * Master<br>
-![](http://tc.geta.no/app/rest/builds/buildType:(id:GetaPackages_GetaCommercePaymentsPayPal_00ci),branch:master/statusIcon)
+![](http://teamcity.getatools.ai/app/rest/builds/buildType:(id:GetaPackages_GetaCommercePaymentsPayPal_00ci),branch:master/statusIcon)
 
 =============
 
